@@ -1,5 +1,5 @@
 
-This project aims to find the homography map betwen two images using MATLAB and OpenCV.
+This project aims to find the homography map betwen two images using MATLAB and OpenCV.<br\>
 The files in the folder can be described as below:
 
 -main.cpp : The main c++ script running the processes
