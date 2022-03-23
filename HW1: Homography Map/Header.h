@@ -17,8 +17,9 @@ using namespace std;
 #pragma comment (lib, "opencv_world455.lib")
 
 //path parameters
-string imagepath1 = "C:/Users/lenov/Desktop/EE576/EE576_HW1/Data/boatA.png";
-string imagepath2 = "C:/Users/lenov/Desktop/EE576/EE576_HW1/Data/boatB.png";
+string imagepath1 = "Imagepath1";
+//the transformations will be applied to this image
+string imagepath2 = "Imagepath2";
 
 //Method that saves the mouse click positions to a global variable of type 2d vector of points called "V"
 // When used, clicks of corresponding points should be done on windows one after another starting from the one that the
