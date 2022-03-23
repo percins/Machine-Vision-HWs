@@ -24,3 +24,14 @@ The information regarding the script and its component can be found below. Scrip
    Solution to the linear equations, the obtained homography matrix, will be written to the manualH.txt file. Afterwards user should press 'y' and press enter.
 
 6) The resultant images and the matrices obtained using MATLAB and OpenCV will be displayed.
+
+Example Original Images:
+![image](https://user-images.githubusercontent.com/100145922/159613766-d83131dc-6460-46af-b7ad-3517ae63be73.png)
+
+Results (Expected Image - Image transformed (H_MATLAB) - Image transformed (H_OpenCV)):
+![image](https://user-images.githubusercontent.com/100145922/159614700-af424019-b399-42a4-9d4c-f92577e8c2bf.png)
+
+Manually found homogprahy map (MATLAB):            Homography map found by OpenCV API:
+[ 2.348167   0.320193  -678.2812269999999            [ 2.17884790    0.2532428   -613.01642607
+ -0.312874   2.381784  -342.300629                    -0.319304375   2.19878814  -298.64360831
+  0.0        0.0        1.0              ]            -7.390049112   -9.0220420   1.0         ]
