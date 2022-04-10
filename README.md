@@ -2,4 +2,6 @@
 
 This folder contains homeworks of the course Machine Vision taken in Spring2022 at Boğaziçi University.
 
-Hw1 : Homograpy map between two images using MATLAB/OpenCV
+HW1 : Homograpy Map Between Two Images Using MATLAB/OpenCV
+
+HW2 : Boundary Finding Using HSV Color Space 
